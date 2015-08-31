@@ -37,6 +37,7 @@ class DetailViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        //Oi eu sou o goku.
         // Dispose of any resources that can be recreated.
     }
 
